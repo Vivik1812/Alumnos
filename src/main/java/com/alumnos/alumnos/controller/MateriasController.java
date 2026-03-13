@@ -11,7 +11,7 @@ public class MateriasController {
     
     @GetMapping
     public String getAlumno(){
-        return "Materias aca";
+        return "MATERIAS EVALUADAS";
     }
 
 }

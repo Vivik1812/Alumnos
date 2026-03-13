@@ -10,6 +10,6 @@ public class AlumnoController {
 
     @GetMapping
     public String getAlumno(){
-        return "Hello";
+        return "ALUMNOS Y SUS NOTAS!!!";
     }
 }
